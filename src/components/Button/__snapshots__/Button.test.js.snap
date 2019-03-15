@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders being primary 1`] = `
+<button
+  class="sc-bdVaJa fCWzxy"
+>
+  Click me
+</button>
+`;
+
+exports[`Button renders default 1`] = `
+<button
+  class="sc-bdVaJa bgIJis"
+>
+  Click me
+</button>
+`;
